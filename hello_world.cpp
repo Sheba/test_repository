@@ -2,7 +2,7 @@
 
 int test()
 {
-	printf("Test #1 build - %d\n", 1);
+	printf("TOP #1 build - %d\n", 1);
 	return 0;
 }
 
