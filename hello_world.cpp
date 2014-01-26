@@ -2,7 +2,7 @@
 
 int test()
 {
-	printf("test build success\n");
+	printf("Test #1 build - %d\n", 1);
 	return 0;
 }
 
